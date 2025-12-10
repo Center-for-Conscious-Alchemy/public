@@ -1,0 +1,19 @@
+# GitHub Pages Configuration
+title: Public Image Hosting
+description: Image hosting for Center for Conscious Alchemy
+baseurl: ""
+url: "https://center-for-conscious-alchemy.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
