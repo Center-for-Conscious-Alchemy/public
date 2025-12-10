@@ -1,7 +1,7 @@
 # GitHub Pages Configuration
 title: Public Image Hosting
 description: Image hosting for Center for Conscious Alchemy
-baseurl: ""
+baseurl: "/public"
 url: "https://center-for-conscious-alchemy.github.io"
 
 # Build settings
